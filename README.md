@@ -1,4 +1,4 @@
-# [CLI-Template
+# CLI-Template [![CMake (Windows)](https://github.com/TerraCraftere3/CLI-Template/actions/workflows/cmake_windows.yml/badge.svg)](https://github.com/TerraCraftere3/CLI-Template/actions/workflows/cmake_windows.yml)
 A Template to program cli tools
 
 ## Dependencies
